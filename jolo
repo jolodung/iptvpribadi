@@ -767,6 +767,7 @@ https://liveanevia.mncnow.id/live/eds/BeIN2s/sa_dash_vmx/BeIN2s.mpd
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
 #EXTINF:-1 tvg-id="beinsport1" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcScVIchK2eAq0HD_lMjld16YYmyQ7F3zxTEmw&usqp=CAU" group-title="Sports", Bein Sports Premium 1
 http://130.193.166.18/cache/Bein-Prem-1-HEVC/master.m3u8?
+http://iptv12k.com:35461/8022022301/468985/3769
 
 
 
@@ -774,7 +775,7 @@ http://130.193.166.18/cache/Bein-Prem-1-HEVC/master.m3u8?
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
 #EXTINF:-1 tvg-id="Erz.mnctv" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSzB97GTt-J8qQ-IGpWkapZE8UwjF0MdcHbAA&usqp=CAU" group-title="Sports", Bein Sports Premium 2
-http://130.193.166.18/cache/Bein-Prem-2-HEVC/master.m3u8?checkedby:iptvcat.com
+http://iptv12k.com:35461/8022022301/468985/3768
 
 
 
@@ -855,6 +856,12 @@ http://iptv.tvmalaysia.cc:80/989651/989651/9020
 http://iptv.tvmalaysia.cc:80/989651/989651/9026
 
 
+#EXTINF:-1 tvg-id="astrosupersport.my4" tvg-name="ASTRO SUPERSPORT 3 " tvg-logo="https://i.postimg.cc/439rXTKs/download-12.png" group-title="Sports",ASTRO SUPERSPORT 3b
+http://iptv12k.com:35461/8022022301/468985/5221
+
+
+#EXTINF:-1 tvg-id="astrosupersport.my4" tvg-name="ASTRO SUPERSPORT 3c " tvg-logo="https://i.postimg.cc/439rXTKs/download-12.png" group-title="Sports",ASTRO SUPERSPORT 3c
+http://iptv12k.com:35461/8022022301/468985/5220
 
 
 #EXTINF:-1 tvg-id="astrosupersport.my5" tvg-name="ASTRO SUPERSPORT5" tvg-logo="https://i.postimg.cc/s25wGV7H/astrosp5.png" group-title="Sports",ASTRO SUPERSPORT 5
@@ -999,12 +1006,20 @@ https://edgesport-samsungus.amagi.tv/playlist720p.m3u8
 
 
 
+#EXTINF:-1 tvg-id="astrosupersport.my4" tvg-name="bein sports mu " tvg-logo="https://i.postimg.cc/439rXTKs/download-12.png" group-title="Sports",ASTRO SUPERSPORT 3c
+#EXTINF:-1,SG-BeIN Sports HD
+http://iptv12k.com:35461/8022022301/468985/227
 
 
+#EXTINF:-1 tvg-id="astrosupersport.my4" tvg-name="bein sports mu " tvg-logo="https://i.postimg.cc/439rXTKs/download-12.png" group-title="Sports",ASTRO SUPERSPORT 3c
+#EXTINF:-1,SG-beIN Sports Max 2 HD BEIN SPORTS 13
+http://iptv12k.com:35461/8022022301/468985/224
 
 
-
-
+#EXTINF:-1 tvg-id="astrosupersport.my4" tvg-name="bein sports mu " tvg-logo="https://i.postimg.cc/439rXTKs/download-12.png" group-title="Sports",ASTRO SUPERSPORT 3c
+#EXTINF:-1,SG-beIN Sports 2 HD BEIN SPORTS 13
+#EXTINF:-1,[AU] beIN Sports 2 AU
+http://iptv12k.com:35461/8022022301/468985/3309
 
 
 
