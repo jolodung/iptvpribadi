@@ -62,7 +62,8 @@ http://hi.hi-back.masuk.web.id/c.m3u8?shinta=2022&coday=ffd67d44870fda644560c476
 
 
 #EXTINF:0 tvg-id="tvone" tvg-name="" tvg-logo="https://i.ibb.co/mDJ7S60/tvone.png" group-title="Lokal",TVONE
-https://liveanevia.mncnow.id/live/eds/TVOne/sa_dash_vmx/TVOne.mpd
+http://group2-swiftservesd-1.dens.tv/s/s105/01.m3u8
+
 
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
